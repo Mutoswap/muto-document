@@ -7,7 +7,7 @@
 **DTO Token Details:**
 
 
-- Ticker: FAM
+- Ticker: DTO
 - Contract address: https://bscscan.com/address/
 - Chain: Binance Smart Chain (BEP-20)
 - Initial minted token : 100,000
