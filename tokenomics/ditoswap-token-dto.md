@@ -2,7 +2,6 @@
 
 
 
-**Ticker: DTO**
  
 **DTO Token Details:**
 
