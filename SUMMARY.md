@@ -3,6 +3,9 @@
 * [Dito Swap](README.md)
 * [Roadmap](roadmap.md)
 
+## TOKENOMICS
+* [DITO SWAP TOKEN \(DTO\)](tokenomics/ditoswap-token-dto.md)
+
 ## IFO \(INITIAL FARM OFFERING\)
 
 * [IFO \(Initial Farm Offering\)](ifo-initial-farm-offering/ifo-initial-farm-offering.md)
@@ -18,6 +21,7 @@
 * [no-migrator-code](security/no-migrator-code.md)
 * [How to check if deposit fee is compromised](security/how-to-check-if-deposit-fee-is-compromised.md)
 * [Emergency Withdraw](security/emergency-withdraw.md)
+* [Audit] (security/Audit.md)
 
 ## FAQ
 
