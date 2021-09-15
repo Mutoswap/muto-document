@@ -3,14 +3,6 @@
 * [Dito Swap](README.md)
 * [Roadmap](roadmap.md)
 
-## LAYERED FARMING
-
-* [Introduction](layered-farming/introduction.md)
-* [Incubator](layered-farming/incubator.md)
-* [DTO Farm](layered-farming/goose-farm.md)
-* [DTO House](layered-farming/goose-house.md)
-* [Audit](layered-farming/audit.md)
-
 ## IFO \(INITIAL FARM OFFERING\)
 
 * [IFO \(Initial Farm Offering\)](ifo-initial-farm-offering/ifo-initial-farm-offering.md)
