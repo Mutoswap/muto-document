@@ -21,7 +21,7 @@
 * [no-migrator-code](security/no-migrator-code.md)
 * [How to check if deposit fee is compromised](security/how-to-check-if-deposit-fee-is-compromised.md)
 * [Emergency Withdraw](security/emergency-withdraw.md)
-* [Audit] (security/Audit.md)
+* [Audit](security/Audit.md)
 
 ## FAQ
 
