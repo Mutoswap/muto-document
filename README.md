@@ -18,5 +18,5 @@ What we are trying to do is create a perpetual deflation token, the DTO, that al
 
 **Layered Farming**
 
-* Layered farming is a perpetual farming tool to allow those who own DTOs to constantly enjoy a high-risk high-reward APY yield farming. Imagine a new xxxxswap site but hosted on Dito Swap where you can ape your money into it with no rugpull, no dumping, no hidden pool!
+* Layered farming is a perpetual farming tool to allow those who own DTOs to constantly enjoy a high-risk high-reward APY yield farming. 
 
